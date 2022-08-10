@@ -59,4 +59,4 @@ utils.c | Strings functions
 ## Authors
 
 * [Yordanos Girma](https://github.com/yordigenet/simple_shell)
-* [Sharleen Awinja](https://github.com/kyeeh/SharleenAwinja)
+* [Sharleen Awinja](https://github.com/SharleenAwinja)
