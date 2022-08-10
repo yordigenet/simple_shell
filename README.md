@@ -5,9 +5,6 @@ This is a simple implementation of  command-line interpreter for the Unix operat
 
 See [Unix Shell](https://en.wikipedia.org/wiki/Unix_shell)
 
-## Getting HSH
-In order to install the shell and get benefits of it's features you need to clone the current project, and compile it.
-You need to make sure that this shell tested and garantees work based on `gcc-4.8` and the `C90` standard.
 
 ## Features
 * Display a prompt and wait for the user to type a command. A command line always ends with a new line.
@@ -62,4 +59,4 @@ utils.c | Strings functions
 ## Authors
 
 * [Yordanos Girma](https://github.com/yordigenet/simple_shell)
-* [Ricardo Rodriguez](https://github.com/kyeeh/SharleenAwinja)
+* [Sharleen Awinja](https://github.com/kyeeh/SharleenAwinja)
