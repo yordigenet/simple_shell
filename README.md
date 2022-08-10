@@ -1,5 +1,5 @@
 # Simple Shell
-----
+-----
 
 This is a simple implementation of  command-line interpreter for the Unix operating system created by ALX SE program students **Yordanos Girma** and **Sharleen Awinja**.
 
